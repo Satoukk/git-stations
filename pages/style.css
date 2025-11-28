@@ -68,18 +68,10 @@ footer {
 }
 
 #food-list > table {
-<<<<<<< HEAD
->>>>>>> feature/food-style
-=======
->>>>>>> feature/food-style
   width: 35%;
   margin-right: 5%;
   margin-left: 10%;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> feature/food-style
 #food-image {
   height: 45vh;
   width: 40%;
@@ -87,10 +79,6 @@ footer {
 }
 
 #food-image > img {
-<<<<<<< HEAD
->>>>>>> feature/food-style
-=======
->>>>>>> feature/food-style
   height: 100%;
   border-radius: 50%;
 }
